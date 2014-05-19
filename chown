@@ -1,0 +1,3 @@
+使い方
+chown USER file (fileの所有者をUSERに変更する)
+chown user:group file (fileの所有者/グループを user/groupに変更する)
