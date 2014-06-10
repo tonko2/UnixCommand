@@ -1,0 +1,2 @@
+open .(Finderを開く)
+open -a Preview hogehoge.png (Previewというアプリを経由して開く)

@@ -1,2 +1,2 @@
 使い方
-find ディレクトリ1 -name filename (ディレクトリ1から始まって、filenameがあれば保存されてるディレクトリが表示される)
+find ディレクトリ1 -name filename (ディレクトリ1以下にあり、filenameがあれば保存されてるディレクトリが表示される)
