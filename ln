@@ -1,0 +1,4 @@
+ln -s /usr/local/bin bin
+
+bin@が作成される。作成したbin@にcdすると/usr/local/binに移動できる。
+
